@@ -1,0 +1,1 @@
+# k3s-ubuntu-ami
