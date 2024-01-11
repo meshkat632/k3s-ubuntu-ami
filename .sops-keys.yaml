@@ -1,0 +1,5 @@
+devopsMembers:
+  - user: "meshkat"
+    agePublicKeys: [age1r65gm5mr78l4vdvdnh46gele7u53x50qstde80pptafrqqtp9cvsmlmzqe]
+  - user: "terraform-cloud"
+    agePublicKeys: [ age1mkv7fv96c7h690nzg2qxupxd5ytadv2csqnlamv8cyt6qdx0vufqk90tpg ]

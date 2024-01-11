@@ -1,0 +1,4 @@
+{
+  "vpc_id": "{{ .Values.vpc_id.value }}",
+  "subnet_id": "{{ .Values.public_subnet_id.value }}"
+}
